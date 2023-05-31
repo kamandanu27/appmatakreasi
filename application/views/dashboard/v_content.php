@@ -12,7 +12,7 @@
                                 <h4 class="m-b-0"><?= $jumlah_pengawas ?></h4>
                             </div>
                             <div class="col col-auto text-right">
-                                <i class="fa fa-heart f-50"></i>
+                                <i class="fa fa-users f-50"></i>
                             </div>
                         </div>
                     </a>
@@ -30,7 +30,7 @@
                                 <h4 class="m-b-0"><?= $jumlah_pelanggan ?></h4>
                             </div>
                             <div class="col col-auto text-right">
-                                <i class="fa fa-heart f-50"></i>
+                                <i class="fa fa-user f-50"></i>
                             </div>
                         </div>
                     </a>
@@ -48,7 +48,7 @@
                                 <h4 class="m-b-0"><?= $jumlah_proyek ?></h4>
                             </div>
                             <div class="col col-auto text-right">
-                                <i class="fa fa-heart f-50"></i>
+                                <i class="fa fa-briefcase f-50"></i>
                             </div>
                         </div>
                     </a>
@@ -66,7 +66,7 @@
                                 <h4 class="m-b-0"><?= $jumlah_progresproyek ?></h4>
                             </div>
                             <div class="col col-auto text-right">
-                                <i class="fa fa-heart f-50"></i>
+                                <i class="fa fa-hourglass-start f-50"></i>
                             </div>
                         </div>
                     </a>

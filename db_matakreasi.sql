@@ -33,7 +33,7 @@ CREATE TABLE `tbl_akun` (
   `nama_akun` varchar(100) NOT NULL,
   `saldo_akun` varchar(100) NOT NULL,
   `dk` varchar(50) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `tbl_akun`
@@ -57,7 +57,7 @@ CREATE TABLE `tbl_jurnal` (
   `keterangan_jurnal` varchar(100) NOT NULL,
   `id_akun` int NOT NULL,
   `periode_jurnal` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `tbl_jurnal`
